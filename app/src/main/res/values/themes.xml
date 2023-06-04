@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Class10thObjectiveQuestion" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/backgroundColor</item>
+        <!-- Customize your theme here. -->
+        <item name="textColor">@color/black</item>
+        <item name="backgroundColor">#45D0E7FE</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="num_card_color">#4DA6FF</item>
+        <item name="view_online">#4CAF50</item>
+        <item name="hd_pdf">#F44336</item>
+        <item name="card_color">@color/white</item>
+
+    </style>
+</resources>
